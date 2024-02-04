@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><style>
+        body{
+            background-image: linear-gradient(blue,greenyellow);
+        }
+        h1{
+            font-size: 150px;
+            margin-top: 10%;
+            margin-left: 42%;
+        }
+        p{
+            font-family: sans-serif;
+            color: white;
+            font-size: 50px;
+            margin-left: 35%;
+            margin-top: -2%;
+
+        }
+        button{
+            margin-left: 40%;
+            background-color: rgb(47, 89, 255);
+            padding: 20px 60px;
+            border-radius: 40px;
+            border: none;
+            font-size: 20px;
+            color: white;
+        }
+        button:hover{
+            transition: 0.5s linear;
+      box-shadow: 15px 20px 20px gray;
+      
+        }
+    </style>
+</head>
+<body>
+    <h1>404</h1>
+    <p>Bir Hata İle Karşılaştık</p>
+    <button>Anasayfaya Git</button>
+</body>
+</html>
